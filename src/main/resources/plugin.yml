@@ -1,0 +1,16 @@
+name: SXPillars
+version: '${project.version}'
+main: sscefalix.the.best.sxpillars.SXPillars
+api-version: '1.16'
+commands:
+  arena:
+    description: Команда для управления аренами.
+  game:
+    description: Команда для управления мини-игрой.
+  pillars:
+    aliases:
+      - sxpillars
+    description: Команда для управления плагином.
+
+softdepend:
+  - PlaceholderAPI
