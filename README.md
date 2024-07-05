@@ -38,4 +38,4 @@ Minecraft 1.8 или выше.
 
 # Автор
 
-[sscefalix] - разработчик плагина "Столбы" для Minecraft.
+[sscefalix](https://github.com/sscefalix) - разработчик плагина "Столбы" для Minecraft.
