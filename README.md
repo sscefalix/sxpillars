@@ -25,17 +25,17 @@
 
 ## Права плагина
 
-- sxpillars.commands.arena - доступ к команде /arena
+sxpillars.commands.arena - доступ к команде /arena
 - sxpillars.commands.arena.join - доступ к команде /arena join
 - sxpillars.commands.arena.create - доступ к команде /arena create
 - sxpillars.commands.arena.setenabled - доступ к команде /arena setenabled
 - sxpillars.commands.arena.setlocation - доступ к команде /arena setlocation
 - sxpillars.commands.arena.quit - доступ к команде /arena quit
 
-- sxpillars.commands.game - доступ к команде /game
+sxpillars.commands.game - доступ к команде /game
 - sxpillars.commands.game.setlobby - доступ к команде /game setlobby
 
-- sxpillars.commands.pillars - доступ к команде /pillars
+sxpillars.commands.pillars - доступ к команде /pillars
 - sxpillars.commands.pillars.reload - доступ к команде /pillars reload
 
 ## Установка
